@@ -1,0 +1,38 @@
+      HTML-CSS
+
+  <html> Hyper Text Markup Language
+         (Hiper Metin İşaretleme Dili)
+
+   --> web sayfalarini hazirlamak icin kullanilan bir isaretleme dilidir
+   --> tag:html komutlarına "tag" veya "etiket" denir
+   --> etiketler buyuktur ve kucuktur isaretlerinin arasina yazilir <tag> gibi...
+   --> bazi istisnalar dışında etiketlerin baslangıc ve bitişleri vardir. Bitiş etiketleri
+   "/" işareti ile belirtilir (ornegin; <b>Merhaba</b> )
+   --> programlama dili değildir
+       :fonksiyon uretemez 2+2'yi kendiliğinden toplayamaz
+
+************************************************************************
+               HTML SAYFASI OLUSTURMAK
+
+  <html>: Her sey "html" ifadeleri arasinda bulunur
+  <head>: Sayfa ile ile ilgili on bilgi ve ayarlar <head> etiketi icinde bulunur
+  ".html" uzantili dosya bu ikisi arasindadir
+  <body>: Ziyaretcinin gordugu her sey "body" etiketi icindedir
+  <title></title>: <head> etiketi icerisinde bulunur ve tarayicida web sitesine ait
+                 baslik cubugunda goruntulenecek metni belirler
+   or:<title> kubra cok iyi bir ise hemencecik girecek </title> dedigimde
+   google da yaanda bu cumlenin aynisi olacaktir
+
+*************************************************************************
+
+              TEMEL WEB SITESI SABLONU
+
+<!doctype html>  html5 kullandigim manasina gelir
+<html>
+<head>
+...
+</head>
+<body>
+...
+<body>
+<html>
